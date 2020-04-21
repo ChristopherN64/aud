@@ -16,6 +16,7 @@ public class SdE {
             a[il]=il+2;
         }
 
+        //Sieb-Algorithmus
         for(int i=0; (a[i]*a[i])<=n;i++) {
                // System.out.println("Durchlauf: "+i+"  Wert: "+a[i]);
                 for (int il = i + 1; a[i]!=0  &&  il < a.length; il++) {
