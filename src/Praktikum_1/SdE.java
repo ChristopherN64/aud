@@ -9,7 +9,8 @@ public class SdE {
 
     public static void main(String args[])
     {
-        int n = 1000000;
+        int n = 10000000;
+        int iCount=0;
         int[] a = new int[n];
         for(int il=0;il<n-2;il++)
         {
@@ -33,7 +34,6 @@ public class SdE {
                 System.out.print(a[il] + "|");
             }
         }
-
 
 
 
