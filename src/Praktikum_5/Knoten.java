@@ -1,4 +1,4 @@
-package Praktukum_5;
+package Praktikum_5;
 
 public class Knoten<T>
 {

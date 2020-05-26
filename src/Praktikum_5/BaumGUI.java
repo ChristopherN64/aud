@@ -1,7 +1,6 @@
-package Praktukum_5;
+package Praktikum_5;
 
 import java.awt.*;
-import java.applet.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
