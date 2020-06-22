@@ -14,7 +14,7 @@ public class QuickSort
 		{
 			for(;array[li]<iPiv; li++);
 			for(;array[re]>iPiv; re--);
-			
+
 			//Es wird nur getauscht wenn re und li noch nicht aneinander vorbei gelaufen sind
 			if(li<=re)
 			{
