@@ -1,7 +1,5 @@
 package Praktikum_2.Aufgabe_5;
 
-import javafx.scene.paint.Stop;
-
 public class Zeitmessung
 {
 	private static double tuwas()

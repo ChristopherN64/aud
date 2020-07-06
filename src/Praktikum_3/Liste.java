@@ -1,9 +1,5 @@
 package Praktikum_3;
 
-import sun.font.DelegatingShape;
-
-import java.util.*;
-
 public class Liste<T>
 {
 	protected Link<T> anfang;
